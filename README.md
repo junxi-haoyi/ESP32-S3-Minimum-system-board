@@ -2,7 +2,7 @@
 
 It's has auto program function by USART serial port as well as has been tested 
 
-![1688432704194](https://aniya.oss-cn-shanghai.aliyuncs.com/1688432704194.jpg)
+![](https://aniya.oss-cn-shanghai.aliyuncs.com/1688432704194.jpg)
 
 ##  hardware composition
 
