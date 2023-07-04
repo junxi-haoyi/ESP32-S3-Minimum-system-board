@@ -2,7 +2,7 @@
 
 It's has auto program function by USART serial port as well as has been tested 
 
-<img src="https://aniya.oss-cn-shanghai.aliyuncs.com/1688432704194.jpg"/>
+<img src="https://aniya.oss-cn-shanghai.aliyuncs.com/1688432704194.jpg" width="500"/>
 hardware composition
 
 - power:AMS1117-33  5V-3.3V
